@@ -1,5 +1,8 @@
 # S100digitalSigner
 Utility for digitally signing content using S-100 Part 15
+
+**New** PDF instructions in this repository [here](simpleSignInstructions.pdf)
+
 ![image](https://github.com/user-attachments/assets/655601c1-5011-4bd7-a840-648fe7e7b0a9)
 
 
